@@ -29,8 +29,8 @@ The project uses RFM Analysis to evaluate customer value based on three dimensio
 
 Metric :- Description
 
-Recency :- How recently a customer made a purchase 
-Frequency :- How frequently a customer purchases 
+Recency :- How recently a customer made a purchase,     
+Frequency :- How frequently a customer purchases,   
 Monetary :- How much a customer spends 
 
 Based on these metrics, customers are categorized into meaningful segments such as:
